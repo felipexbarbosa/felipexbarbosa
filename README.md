@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @felipexbarbosa
+- 👀 I’m interested in python, soccer, and fashion
+- 🌱 I’m currently learning AI and Google Cloud Services
+- 📫 Email me at felipexlb@gmail.com
